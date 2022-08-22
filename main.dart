@@ -1,2 +1,2 @@
 int erdem = 1;
-int kara = 2;
+int kara = 3;
